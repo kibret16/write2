@@ -1,0 +1,21 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Write 2",
+    "display": "standalone",
+    "short_name": "Write 2",
+    "theme_color": "#333",
+    "description": "",
+    "orientation": "any",
+    "background_color": "#333",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [{
+        "src": "images/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "url": "https://kibret16.github.io/write2/",
+    "start_url": "/write2/",
+    "generated": "true"
+}
